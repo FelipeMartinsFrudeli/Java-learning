@@ -4,6 +4,6 @@ Agencia Bancaria:
 Simples projeto para entender classes, métodos staticos, get e sets, packages e sobrecarga de métodos
 
 Exemplos de como ficou o resultado do projeto:
-![1](https://user-images.githubusercontent.com/51006430/220497400-ada27585-abba-4408-90d0-a8144555e624.png)
-![2](https://user-images.githubusercontent.com/51006430/220497409-8e054bec-2e0d-4a3a-acef-8c4b19b8e1f0.png)
-![3](https://user-images.githubusercontent.com/51006430/220497415-e64a5dfe-6196-4ef4-9845-fd68414cdf50.png)
+![1a](https://user-images.githubusercontent.com/51006430/220498348-fa95385f-309c-4dd6-81f6-168430857b74.png)
+![2a](https://user-images.githubusercontent.com/51006430/220498358-c05f918b-6e8d-4075-8bb4-1a0d354508bb.png)
+![3b](https://user-images.githubusercontent.com/51006430/220498371-29f09cf6-1f0f-4976-983d-829df29baad7.png)
